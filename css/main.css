@@ -39,7 +39,7 @@ body {
 
 .img-layer {
   height: 100vh;
-  background-image: url(/imgs/pexels-timo-10010408\ \(1\).jpg);
+  background-image: url(../imgs/pexels-timo-10010408\ \(1\).jpg);
   background-repeat: repeat;
   background-position: center center;
   background-size: cover;
@@ -217,7 +217,7 @@ body {
 
 /* *************details */
 #details {
-  background-image: url(/imgs/560135847079567.jpg);
+  background-image: url(../imgs/560135847079567.jpg);
   background-repeat: repeat-x;
   background-position: center center;
   background-size: contain;
